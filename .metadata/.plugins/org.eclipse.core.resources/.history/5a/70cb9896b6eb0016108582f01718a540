@@ -1,0 +1,16 @@
+public class word_puzzle
+{
+	public word_puzzle()
+	{
+		String[][] my_Table = new String[][] { 
+				{"t", "h", "i", "s"},
+				{"w", "a", "t", "s"},
+				{"o", "a", "h", "g"},
+				{"f", "g", "d", "t"} };
+	}
+	int[][] find_word(String word)
+	{
+		int[][] Word = new int[2][2];
+		return Word;
+	}
+}

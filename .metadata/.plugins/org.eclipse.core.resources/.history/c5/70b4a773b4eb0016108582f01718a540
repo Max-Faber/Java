@@ -1,0 +1,28 @@
+
+public class DavinciRobot 
+{
+	boolean x;
+	int y;
+	byte z;
+	/*public DavinciRobot()
+	{
+		x = true;
+		y = 12345678;
+		z = 127;
+	}*/
+	boolean convert()
+	{
+		if(x == true || y < z) return true;
+		else return false;
+	}
+	public DavinciRobot()
+	{
+		string [][] tabel = new string[4][4] = {
+				{"t", "h", "i", "s"},
+				{"w", "a", "t", "s"},
+				{"o", "a", "h", "g"},
+				{"f", "g", "d", "t"}
+		}
+	}
+
+}
